@@ -16,8 +16,8 @@ Pick one:
   dependencies:
     viewthrough:
       git:
-        url: https://github.com/jonathannoelschaefer-code/ugc-lift.git
-        path: packages/sdk-flutter
+        url: https://github.com/viewthrough/viewthrough-flutter.git
+        ref: 0.1.0
   ```
   then `import 'package:viewthrough/viewthrough.dart';`.
 - pub.dev follows.
