@@ -1,0 +1,16 @@
+name: viewthrough
+description: Viewthrough SDK — installs, onboarding, paywall and checkout events from your Flutter app, batched and offline-safe. Pure Dart, no dependencies.
+version: 0.1.0
+homepage: https://viewthrough.app
+repository: https://github.com/jonathannoelschaefer-code/ugc-lift
+topics:
+  - analytics
+  - attribution
+  - viewthrough
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
